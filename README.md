@@ -23,7 +23,7 @@ pregnancy. It is possible to decrease unwanted pregnancies and further lower the
 abortions carried out in the US by expanding access to and use of effective contraception.
 
 
-##Existing Techniques
+## Existing Techniques
 There are several techniques that currently exist and are implemented in previous research papers
 that deal with exploring and visualizing Abortion Statistics.
 
@@ -40,7 +40,7 @@ It is also another form of representation implemented by the Guttmacher Institut
 of visualization is very common between different organizations and their representation of the
 statistics for abortion.
 
-##Visualization Techniques
+## Visualization Techniques
 There are several information visualization techniques that have been used and implemented in
 order to accurately and efficiently create visualizations for this project. The key factor of this
 project is to have effective visualizations that represent the years of data leading up to today.
@@ -49,39 +49,39 @@ Thus, in order to create a visualization that can be integrated into a dashboard
 the user to swap between them all and learn and understand the data, the following Visualization
 Techniques were implemented.
 
-###1. Bar Chart -
+### 1. Bar Chart -
 A bar chart is the depiction of information, numbers, or data using strips or bars in a
 graphical form. It is deployed in order to help compare and contrast different data types,
 their frequencies, and categories of data. A bar chart helps depict the abortion stats from
 the year 1973 to now for all states in the United States.
 
-###2. Line Chart -
+### 2. Line Chart -
 A graphical representation of data and information that can morph continuously is known
 as a line chart. The continuous changes are tracked efficiently with the use of markers on
 the data points. A line chart is the most commonly used representation of abortion
 statistics and is simple to understand for any user.
 
 
-###3. Box Chart -
+### 3. Box Chart -
 A box plot is a quartile-based distribution of any variable that is present in the statistical
 illustration. The box’s ends represent the upper and lower ends of the distribution and
 thus provide the user with an understanding of the minimum and maximum of the data.
 
 
-###4. Violin Chart -
+### 4. Violin Chart -
 These charts are extremely similar to box charts, where the plots display the probability
 density for the various attributes of the data. It is marked by the median, the IQ range,
 and sample points. This would help the user understand the median for any or all regions
 that the user wants to specifically focus on and understand.
 
 
-###5. Funnel Chart -
+### 5. Funnel Chart -
 Funnel chart helps in displaying the data in different stages of its progress or process.
 This view of the data can help people understand the data at its basic level and at its
 maximum growth as well.
 
 
-###6. Pie Chart -
+### 6. Pie Chart -
 A pie chart is a graphical representation that is circular in form, and has sections that
 represent each portion of the data. In this project, it represents the abortion ratio across
 the 50 states of the united states.
