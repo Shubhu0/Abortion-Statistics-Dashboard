@@ -1,0 +1,32 @@
+#header {
+    text-align:center;
+    justify-content: center;
+    color: antiquewhite;
+    font-size: 2em;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#abortion_plot {
+    margin:auto;
+    margin-top: 0.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    color: bisque;
+}
+
+#states {
+    text-align: center;
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(47, 55, 63);
+}
